@@ -9,3 +9,5 @@ Shradha Khapra
 Delta Student
 
 vinay is working on it and learning git and github.
+
+currently studying b.tech final year.
