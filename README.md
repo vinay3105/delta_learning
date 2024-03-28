@@ -5,5 +5,5 @@ this is about git and github
 # Teacher 
 Shradha Khapra
 
-#Student 
+# Student 
 Delta Student
